@@ -43,3 +43,37 @@ function multiply($a, $b) {
 }
 
 ```
+## Recent work experience
+
+
+> **Sole Proprietorship Stanislav A. Pirmanov**
+
+
+> Producer of YouTube, Instagram, TikTok and Telegram channels
+
+
+>Feb 2018 — Present
+
+
+---
+
+
+> **SQUILLA LLC**
+
+
+> Head of Digital
+
+
+>Jul 2015 — May 2019
+
+
+---
+
+
+> **Moscow Business School LLC**
+
+
+> Head of Digital
+
+
+>Jul 2015 — May 2019
