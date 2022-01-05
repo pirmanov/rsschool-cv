@@ -1,0 +1,167 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+h1 {
+    font-family: Roboto Condensed, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    color: #000000;
+    text-align: center;
+}
+
+h2 {
+    font-family: Roboto Condensed, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    color: #000000;
+    text-align: center;
+}
+
+p {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 60px;
+    color: #000000;
+}
+
+div {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+code {
+    font-family: Roboto Mono, monospace;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: #000000;
+}
+
+span {
+    font-weight: 700;
+}
+
+.container {
+    max-width: 928px;
+    margin: 0 auto;
+}
+
+.menu {
+    font-family: Roboto Condensed, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 60px;
+    color: #000000;
+    position: fixed;
+    top: 0px;
+    background-color: #FFFFFF;
+}
+
+.list {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+}
+
+.item {
+    margin: 0px 38px 0px 0px;
+}
+
+.link {
+    font-size: 24px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: blue;
+}
+
+.applicant {
+    width: 928px;
+    height: 520px;
+    padding: 100px 0px 0px 0px;
+}
+
+.photo-pirmanov {
+    width: 256px;
+    height: 256px;
+    border-radius: 150px;
+    display: block;
+    margin: 0 auto;
+}
+
+.contact-information {
+    width: 928px;
+    height: 350px;
+    padding: 100px 0px 0px 0px;
+}
+
+.about {
+    width: 928px;
+    height: 400px;
+    padding: 100px 0px 0px 0px;
+}
+
+.skills {
+    width: 928px;
+    height: 550px;
+    padding: 100px 0px 0px 0px;
+}
+
+.code {
+    width: 928px;
+    height: 400px;
+    padding: 100px 0px 0px 0px;
+}
+
+.experience {
+    width: 928px;
+    height: 950px;
+    padding: 100px 0px 0px 0px;
+}
+
+.my-education {
+    width: 928px;
+    height: 840px;
+    padding: 100px 0px 0px 0px;
+}
+
+.language {
+    width: 928px;
+    height: 500px;
+    padding: 100px 0px 25px 0px;
+}
+
+.company-name {
+    font-weight: 700;
+}
+
+.name-of-university {
+    font-weight: 700;    
+}
+
+.copyright {
+    color: #000000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rsschool-logo {
+    width: 160px;
+    height: 61px;
+}
