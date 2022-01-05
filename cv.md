@@ -31,3 +31,15 @@ I have about 12 years of experience in digital marketing. I was head of digital 
 
 
 **Development tools:** Visual Studio, VSCode, Sublime Text 3, Notepad++
+
+## Code Examples
+
+
+**Codewars 8ku Kata link:** [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
+
+```
+function multiply($a, $b) {
+    return $a * $b;
+}
+
+```
