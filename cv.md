@@ -15,3 +15,19 @@ Junior Software Developer JavaScript Front-End
 
 ## About me
 I have about 12 years of experience in digital marketing. I was head of digital marketing in a large top company in the EdTech segment in Moscow. I achieved what I wanted in this industry. Now I want to become a web programmer. My planning horizon in this role is about the next 15 years.
+
+## Hard Skills
+
+**Programming Languages:** Basic level of knowledge of C++ (university program)
+
+
+**Frameworks:** I don't know any frameworks
+
+
+**Methodologies:** Agile, Kanban, Scrum, Waterfall
+
+
+**Version control systems:** Git + GitHub (as part of RS School Stage 0)
+
+
+**Development tools:** Visual Studio, VSCode, Sublime Text 3, Notepad++
