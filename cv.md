@@ -105,3 +105,12 @@ function multiply($a, $b) {
 
 
 >2015 — 2019
+
+
+
+## Languages
+
+-   **Russian** — C2 (Native)
+-   **English** — A2 (Elementary)
+-   **French** — A1 (Beginner)
+-   **Ukrainian** — A1 (Beginner)
