@@ -77,3 +77,31 @@ function multiply($a, $b) {
 
 
 >Jul 2015 — May 2019
+
+## Education
+
+> **Southern Federal University**  
+
+
+> Master of Computer Science
+
+
+>Information and Analytical Systems and Big Data Technologies
+
+
+>2019 — 2021
+
+
+---
+
+
+> **Belgorod State Technological University named after V.G. Shukhov**  
+
+
+> Bachelor of Software Engineering
+
+
+>Software Engineering
+
+
+>2015 — 2019
